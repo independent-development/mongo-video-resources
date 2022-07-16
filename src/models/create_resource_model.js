@@ -11,7 +11,6 @@ export const ResourceSchema = new Schema({
 
 
 export function create_resource_model(connect) {
-  const ResourceModel = connect.model("ResourceModel", ResourceSchema);
-  const resource_model = new ResourceModel();
-  return resource_model;
+  const ResourceModel = connect.model("resources_model", ResourceSchema);
+  return ResourceModel;
 };

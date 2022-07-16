@@ -9,7 +9,7 @@ import { create_resource_model } from "@/models/create_resource_model";
 
 export async function test_command() {
   const connect = await create_connect();
-  const resource_model = await create_resource_model(connect);
-  resource_model.name = "name1";
-  await resource_model.save();
+  const ResourceModel = await create_resource_model(connect);
+  const resource_model = new ResourceModel({ name: "sdasaad", oss_url: "https://www.google.com/" });
+  console.log(await resource_model.save());
 };
