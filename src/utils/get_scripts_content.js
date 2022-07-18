@@ -1,14 +1,8 @@
-import fs from "fs";
-import path from "path";
-import { promisify } from "util";
 import { parse } from "@babel/parser";
 import traverse from "@babel/traverse";
 import generate from "@babel/generator";
 
-const save_file_path = path.resolve(__dirname, "../../statics/script_content.js");
-
-export async function ast_content(title) {
-  const code_string = await promisify(fs.readFile)(save_file_path, "utf-8");
+export default async function get_scripts_content(code_string) {
   const ast_result = parse(code_string);
   const VariableDeclaratorArray = [];
   traverse(ast_result, {
@@ -21,5 +15,5 @@ export async function ast_content(title) {
   const progressive_list = progressive.map(({ quality, mime, url }) => {
     return { quality, mime, url };
   });
-  return { title, progressive_list };
+  return progressive_list;
 };

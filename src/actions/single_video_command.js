@@ -24,6 +24,6 @@ export async function single_video_command() {
   const bodyHandle = await frame.$("body>script");
   const script_content = await frame.evaluate(script => script.innerHTML, bodyHandle);
   await bodyHandle.dispose();
-  await promisify(fs.writeFile)(save_file_path, script_content, "utf-8");
+  // await promisify(fs.writeFile)(save_file_path, script_content, "utf-8");
   // const ast_result = parse(script_content);
 };

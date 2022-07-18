@@ -3,6 +3,7 @@ import { name, version } from "@@/package.json";
 
 import { ast_content } from "@/actions/ast_content";
 import { pages_command } from "@/actions/pages_command";
+import { fetch_video_list } from "@/actions/fetch_video_list";
 import { single_video_command } from "@/actions/single_video_command";
 import { create_config_file } from "@/actions/create_config_file";
 
@@ -24,6 +25,11 @@ program
   .command("pages")
   .description("这是测试命令")
   .action(pages_command);
+
+program
+  .command("fetch")
+  .description("获取视频列表")
+  .action(fetch_video_list);
 
 program
   .command("single")
