@@ -12,7 +12,7 @@ export async function fetch_video_list() {
   const current_video_key = await video_count_database.get("current_video_key").value();
   const browser = await puppeteer.launch({
     timeout: 0,
-    headless: true,
+    headless: false,
     defaultViewport: { width: 1920, height: 1080 }
   });
   for (let key = current_video_key || 0; key < video_key_list.length; key++) {
