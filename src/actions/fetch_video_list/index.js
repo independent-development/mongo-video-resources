@@ -1,10 +1,11 @@
 import { yellow } from "colors";
 import puppeteer from "puppeteer";
 
-import video_list_database from "@/utils/video_list_database";
-import video_count_database from "@/utils/video_count_database";
 import page_list_database from "@/utils/page_list_database";
-import get_scripts_content from "@/utils/get_scripts_content";
+
+import video_list_database from "./utils/video_list_database";
+import video_count_database from "./utils/video_count_database";
+import get_scripts_content from "./utils/get_scripts_content";
 
 export async function fetch_video_list() {
   const video_key_list = await page_list_database.keys().value();

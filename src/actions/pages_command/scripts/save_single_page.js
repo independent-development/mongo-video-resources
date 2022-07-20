@@ -1,8 +1,8 @@
 import url from "url";
 import { red, green } from "colors";
 
-import load_page from "@/utils/load_page";
 import page_list_database from "@/utils/page_list_database";
+import load_page from "../utils/load_page";
 
 export default async function save_single_page(page_number) {
   const resource_list = await load_page(page_number);

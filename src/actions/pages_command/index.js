@@ -2,8 +2,8 @@
 // import load_config from "@/utils/load_config";
 
 import { yellow } from "colors";
-import save_single_page from "@/scripts/save_single_page";
 import page_count_database from "@/utils/page_count_database";
+import save_single_page from "./scripts/save_single_page";
 
 // export const test_command_argument=new Argument("<actions>","动作类型描述").choices(["init","info"]);
 // export const test_command_option=new Option("-t,--test_option <string>").default("test_option_value");
