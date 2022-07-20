@@ -230,24 +230,249 @@
   ],
   "mist-fog-landscape": [
     {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307118~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713624.mp4~hmac=b91bb9043e7e0a0be122c5d024cd953e34f073b3eae839eb301a8be105669cf1/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713624.mp4"
+    },
+    {
       "quality": "540p",
       "mime": "video/mp4",
-      "url": "https://vod-progressive.akamaized.net/exp=1658144268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713623.mp4~hmac=06d2df6e08c311ec9139aa4ccadd519809dc41775fd87d3b76bf22b2346a5871/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713623.mp4"
+      "url": "https://vod-progressive.akamaized.net/exp=1658307118~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713623.mp4~hmac=562d965a369dbe1bd97e571b8c0c1a954965d6d13a5af6c768737b1efb66a945/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713623.mp4"
     },
     {
       "quality": "360p",
       "mime": "video/mp4",
-      "url": "https://vod-progressive.akamaized.net/exp=1658144268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713635.mp4~hmac=e049eab7b1956c7b1eea96f2242aaac2c55f68b8f0571fd2ca70b3df362bdca1/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713635.mp4"
+      "url": "https://vod-progressive.akamaized.net/exp=1658307118~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713635.mp4~hmac=872cbb7bbe51a1f27dbadb839ab8ade6cd98ba49211a8fa98a14cee3506f7253/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713635.mp4"
     },
     {
       "quality": "720p",
       "mime": "video/mp4",
-      "url": "https://vod-progressive.akamaized.net/exp=1658144268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713638.mp4~hmac=855bb29fb82de0391e287860ec4340f0c36570dbd52703014d29898fe9c90fc4/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713638.mp4"
+      "url": "https://vod-progressive.akamaized.net/exp=1658307118~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713638.mp4~hmac=f180b94374cce78f265cb5a9e8ff68795e252980dec01bcb7ce1b8c42b6c897a/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713638.mp4"
+    }
+  ],
+  "coastal-beach-aerial": [
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307136~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672142147%2F3095673740.mp4~hmac=9d3a7086e630d9d1db20b0338925383d69dfd8aff858193bc3f28352a8a0380b/vimeo-prod-skyfire-std-us/01/4428/26/672142147/3095673740.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307136~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672142147%2F3095673762.mp4~hmac=4e53c33f03b9d6772e992c2e90d5aceff9a5ae80e65033db2bf2c162ddd52205/vimeo-prod-skyfire-std-us/01/4428/26/672142147/3095673762.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307136~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672142147%2F3095673752.mp4~hmac=1bd829d4bd9305b528200b1a215d56419333036a1c9516951e718d6caba54776/vimeo-prod-skyfire-std-us/01/4428/26/672142147/3095673752.mp4"
     },
     {
       "quality": "1080p",
       "mime": "video/mp4",
-      "url": "https://vod-progressive.akamaized.net/exp=1658144268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1962%2F27%2F684811919%2F3158713624.mp4~hmac=d2feb85a622b7c494ff985fa0328afa4384b739c672d3fdbb6e34f8c720ff88b/vimeo-prod-skyfire-std-us/01/1962/27/684811919/3158713624.mp4"
+      "url": "https://vod-progressive.akamaized.net/exp=1658307136~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672142147%2F3095673751.mp4~hmac=6f20fd779ae7b151f2a98cadc1cadd1528cf50ccdff264c2946ab1b1294b3a84/vimeo-prod-skyfire-std-us/01/4428/26/672142147/3095673751.mp4"
+    }
+  ],
+  "beach-coast-summer": [
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307152~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656763090%2F3016687992.mp4~hmac=80d6ee1dac082f60a209f8e18df6141b336f5ff1a9560a95e19b45321c807765/vimeo-prod-skyfire-std-us/01/1352/26/656763090/3016687992.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307152~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656763090%2F3016687973.mp4~hmac=8a565cae56a4cc32c9556a476fc3f966c1f94a6815fb31521b256449dfd8114d/vimeo-prod-skyfire-std-us/01/1352/26/656763090/3016687973.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307152~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656763090%2F3016687976.mp4~hmac=60bd8ca409568fccbeaa122e76e85f8f5420757e3e6e004779d1cc32cf4a6366/vimeo-prod-skyfire-std-us/01/1352/26/656763090/3016687976.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307152~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656763090%2F3016687971.mp4~hmac=b4dc88b542f37e75f411b77e970525de8aa93d3f1519006f474eef7e0674db99/vimeo-prod-skyfire-std-us/01/1352/26/656763090/3016687971.mp4"
+    }
+  ],
+  "surfers-ocean-water": [
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307251~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4431%2F26%2F672159563%2F3095757772.mp4~hmac=ed6a752ba6011131b72fb9313142c3409c7494dc5950aad88ea17c638d314429/vimeo-prod-skyfire-std-us/01/4431/26/672159563/3095757772.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307251~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4431%2F26%2F672159563%2F3095757775.mp4~hmac=83da524e6189874a72987e46d69932082bffabf1406a8c8ebf1058596a2a38c3/vimeo-prod-skyfire-std-us/01/4431/26/672159563/3095757775.mp4"
+    },
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307251~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4431%2F26%2F672159563%2F3095757762.mp4~hmac=d9985a9ee454ad08b9e8255fec1e41baf14a39b1da505dd3871ae8174b0de99d/vimeo-prod-skyfire-std-us/01/4431/26/672159563/3095757762.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307251~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4431%2F26%2F672159563%2F3095757767.mp4~hmac=5a5c74c0fa99f9a071ccf1966938bdb3f6342f271e6d56e2a0e23d4a5d8e77a6/vimeo-prod-skyfire-std-us/01/4431/26/672159563/3095757767.mp4"
+    }
+  ],
+  "evening-ocean-sunset": [
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307260~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4432%2F26%2F672162018%2F3095761894.mp4~hmac=d60ab71c66a525ef9dbd64ffaa90ee40b9d07d3a67d4aa3918b4b34a6d8a9bdf/vimeo-prod-skyfire-std-us/01/4432/26/672162018/3095761894.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307260~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4432%2F26%2F672162018%2F3095761900.mp4~hmac=6b0022a7a73346a23cf135293f220c430cef25dd4ce910d69f2389ded6ffd25f/vimeo-prod-skyfire-std-us/01/4432/26/672162018/3095761900.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307260~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4432%2F26%2F672162018%2F3095761899.mp4~hmac=9bc86f96447132adfd1387dc7f1e6a53f4ba7cbb6a23dd2c4ebad1a56f2dcc11/vimeo-prod-skyfire-std-us/01/4432/26/672162018/3095761899.mp4"
+    },
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307260~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4432%2F26%2F672162018%2F3095761892.mp4~hmac=97ea27148ff5ede80fb8a407e001ca8197f0daa20f05606a3485bceaac37e13c/vimeo-prod-skyfire-std-us/01/4432/26/672162018/3095761892.mp4"
+    }
+  ],
+  "atv-road-aerial": [
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672140947%2F3095654089.mp4~hmac=31693796eed172ca21ee4d79b6834ac73beb7a9437d764cb5ef1f2c53bf12ce3/vimeo-prod-skyfire-std-us/01/4428/26/672140947/3095654089.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672140947%2F3095654096.mp4~hmac=8d712e1ec08d617a372aa3c22b88827ce989aa9a12dcb7f21fb444a43fdf67b9/vimeo-prod-skyfire-std-us/01/4428/26/672140947/3095654096.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672140947%2F3095654086.mp4~hmac=7d7dd6cd78eef596ddff550ff1926aec48bf57d4cc40be1612b1f5ec92a3ff14/vimeo-prod-skyfire-std-us/01/4428/26/672140947/3095654086.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307268~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4428%2F26%2F672140947%2F3095654093.mp4~hmac=875a1629562a06bc4d81ea38835f6657a53d257aa07bd45b4d61c6d4d718c57f/vimeo-prod-skyfire-std-us/01/4428/26/672140947/3095654093.mp4"
+    }
+  ],
+  "ocean-sea-aerial-above": [
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307283~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4429%2F26%2F672145950%2F3095692655.mp4~hmac=0045179e4683398dd18ce5b64e25afd150f382fddfc3165debb9f81fd65e8c48/vimeo-prod-skyfire-std-us/01/4429/26/672145950/3095692655.mp4"
+    },
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307283~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4429%2F26%2F672145950%2F3095692636.mp4~hmac=9d1c693efc7c84379916a8e858a60e14229baf94b31a0ba96b6fc4dbfda79fba/vimeo-prod-skyfire-std-us/01/4429/26/672145950/3095692636.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307283~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4429%2F26%2F672145950%2F3095692668.mp4~hmac=4bb81666b4578b08393fc4fbde3451634c0b13ec9add004ecee3d045e530f606/vimeo-prod-skyfire-std-us/01/4429/26/672145950/3095692668.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307283~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4429%2F26%2F672145950%2F3095692646.mp4~hmac=22ea013b91cda2e688b4ab5d12d2728f2be4f26055b36601456eb7f8bb661366/vimeo-prod-skyfire-std-us/01/4429/26/672145950/3095692646.mp4"
+    }
+  ],
+  "east-coast-shore": [
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307290~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656764524%2F3016698815.mp4~hmac=68b5c94acd7654ab766fed2278af949281f10b780fe3d704da4d03f576be05c4/vimeo-prod-skyfire-std-us/01/1352/26/656764524/3016698815.mp4"
+    },
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307290~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656764524%2F3016698808.mp4~hmac=413688d446f64c8ab52c9f32e81f286220d841bdb66c147be6f4713d81643b49/vimeo-prod-skyfire-std-us/01/1352/26/656764524/3016698808.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307290~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656764524%2F3016698816.mp4~hmac=340ce6a9d4c30671164d4d754e83616315a1d47ca727c012d6f348105f204371/vimeo-prod-skyfire-std-us/01/1352/26/656764524/3016698816.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307290~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1352%2F26%2F656764524%2F3016698809.mp4~hmac=5fc5ccfb8a7b3c7da0a1e813fea333c7eec5fe2fe076e0ff80972bd802742ad6/vimeo-prod-skyfire-std-us/01/1352/26/656764524/3016698809.mp4"
+    }
+  ],
+  "tropical-beach-coast": [
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307304~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369691%2F3055980109.mp4~hmac=1e2b34a7bbcbfaa04fbc2663735766d5f09f61352114b786b681132a09d3b5d1/vimeo-prod-skyfire-std-us/01/2873/26/664369691/3055980109.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307304~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369691%2F3055980126.mp4~hmac=c7821781d6cbee8df1bbe4905cb52214f193423c42eb7419d3fde5623f12e43b/vimeo-prod-skyfire-std-us/01/2873/26/664369691/3055980126.mp4"
+    },
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307304~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369691%2F3055980118.mp4~hmac=f3e591a6b1d4b9dcd45efb3b7772ddd507791521dca1b51943fdf514783f6081/vimeo-prod-skyfire-std-us/01/2873/26/664369691/3055980118.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307304~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369691%2F3055980102.mp4~hmac=11dee72042e3ae3ff0fef1865623c18f7eb66b7db60f2b0abe5b9f255de9d2e4/vimeo-prod-skyfire-std-us/01/2873/26/664369691/3055980102.mp4"
+    }
+  ],
+  "river-water": [
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307314~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1659%2F19%2F483298027%2F2163576872.mp4~hmac=a0b21c1bebdb26534916bfa25fc4c93be8a2fd593c4028826035849eb5c286b8/vimeo-prod-skyfire-std-us/01/1659/19/483298027/2163576872.mp4"
+    },
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307314~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1659%2F19%2F483298027%2F2163576875.mp4~hmac=abafe9b0767958ba70d3f53c4eb9f762bf24d132930ac5864583739fbe47c9d9/vimeo-prod-skyfire-std-us/01/1659/19/483298027/2163576875.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307314~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1659%2F19%2F483298027%2F2163576882.mp4~hmac=286a929c6320e498bb9e4f186835030dc6b89c0e487a93bc5e5796b28054aa69/vimeo-prod-skyfire-std-us/01/1659/19/483298027/2163576882.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307314~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1659%2F19%2F483298027%2F2163576887.mp4~hmac=288539ddff0e3f5328008b1082ce543fbd97e91b06eda7c9a53110899cafc961/vimeo-prod-skyfire-std-us/01/1659/19/483298027/2163576887.mp4"
+    },
+    {
+      "quality": "240p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307314~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1659%2F19%2F483298027%2F2163576868.mp4~hmac=96fce66827a9933019ab787560bd6c939831cb230afb9c1a28e22a036b1c863a/vimeo-prod-skyfire-std-us/01/1659/19/483298027/2163576868.mp4"
+    }
+  ],
+  "ocean-aerial-background": [
+    {
+      "quality": "540p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307324~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369351%2F3055977132.mp4~hmac=b0803310c6705c40007ec2f6bc6c16285a80f8b296bd7695f2583f6556de32fc/vimeo-prod-skyfire-std-us/01/2873/26/664369351/3055977132.mp4"
+    },
+    {
+      "quality": "360p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307324~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369351%2F3055977137.mp4~hmac=9b6215eab0a47e9653a952308ba57191bdf3aa6b163e49cdaafba80ad6becf9d/vimeo-prod-skyfire-std-us/01/2873/26/664369351/3055977137.mp4"
+    },
+    {
+      "quality": "720p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307324~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369351%2F3055977118.mp4~hmac=ef650c7ba4d36d67bcf2230224974e1e6b5d018bd327b0ec7bc8321e8d323c0e/vimeo-prod-skyfire-std-us/01/2873/26/664369351/3055977118.mp4"
+    },
+    {
+      "quality": "1080p",
+      "mime": "video/mp4",
+      "url": "https://vod-progressive.akamaized.net/exp=1658307324~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2873%2F26%2F664369351%2F3055977130.mp4~hmac=40f17e806448d1b477c704a67f2a00120a4a5801b8285f991a20d4273469cd84/vimeo-prod-skyfire-std-us/01/2873/26/664369351/3055977130.mp4"
     }
   ]
 }
